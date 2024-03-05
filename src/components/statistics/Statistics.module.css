@@ -1,0 +1,13 @@
+.stats {
+  margin: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.stat {
+  font-size: 1.4rem;
+  font-weight: 500;
+  display: flex;
+  gap: 0.4rem;
+}

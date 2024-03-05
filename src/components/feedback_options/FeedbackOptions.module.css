@@ -1,0 +1,19 @@
+.buttons {
+  margin: 2rem 0.5rem;
+  display: flex;
+  gap: 0.4rem;
+}
+
+.button {
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  padding: 0.25rem 0.5rem 0;
+}
+
+.button:active {
+  background-color: #4896ef;
+}
